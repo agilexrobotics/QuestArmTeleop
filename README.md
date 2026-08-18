@@ -72,11 +72,12 @@ Set the sleep timeout to the maximum value so the headset does not turn off the 
 
 → On the headset, go to Settings → General → Power → set **Display Off Time** to 4 hours.
 
-**4. Connect the computer and Quest with a USB Type-C cable**
+**4. Turn off gesture tracking and recognition to ensure that only the controllers are detected.**
+**5. Connect the computer and Quest with a USB Type-C cable**
 
 Wired connection is the default, because it provides reliable data throughput and low latency. If you need wireless connection, see [Wireless Connection](#wireless-connection).
 
-**5. Install the APK on the headset**
+**6. Install the APK on the headset**
 
 - Establish the connection: after enabling Developer Mode, connect the Quest to your computer with a USB cable → when the **Allow USB debugging** prompt appears on the Quest → authorize to establish the channel.
 - Run the following command:
